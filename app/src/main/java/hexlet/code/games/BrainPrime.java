@@ -4,7 +4,7 @@ import hexlet.code.Engine;
 import hexlet.code.Utilis;
 
 public class BrainPrime {
-    public static final String DESCRIPTION = "Answer 'yes' if the number is even, otherwise answer 'no'.";
+    public static final String DESCRIPTION = "Answer 'yes' if given number is prime. Otherwise answer 'no'.";
     public static final int MIN = 0;
     public static final int MAX = 100;
 
